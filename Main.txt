@@ -1,6 +1,6 @@
 ﻿class Main {
 	public static void Main(String[] args) {
-		SetText("Hello Git");
+		SetText("Hello Git"); //test git comment
 	}
 	
 	private String SetText(String text){
