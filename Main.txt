@@ -1,2 +1,5 @@
-class Main {
+﻿class Main {
+	public static void Main(String[] args) {
+		//test git
+	}
 }
