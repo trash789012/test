@@ -1,5 +1,9 @@
 ﻿class Main {
 	public static void Main(String[] args) {
-		//test git
+		SetText("Hello Git");
+	}
+	
+	private String SetText(String text){
+		return System.Out.Println(text);
 	}
 }
